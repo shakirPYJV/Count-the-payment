@@ -1,0 +1,5 @@
+If i give you 1000 dollars you will give me 1 dollar, and  If its more than 1000 dollars , give me 1+ the extra money . and If I give you less than 1000 dollars then give me 1 dollar but give me a note that the rest are my due
+Sample input and Output(Loop required)
+1                              1+999
+1000                           1
+1010                          11
